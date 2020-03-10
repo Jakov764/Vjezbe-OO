@@ -1,0 +1,7 @@
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\bin\Debug\cvekŠpraljaJakovOO.exe.config
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\bin\Debug\cvekŠpraljaJakovOO.exe
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\bin\Debug\cvekŠpraljaJakovOO.pdb
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\obj\Debug\cvekŠpraljaJakovOO.csprojAssemblyReference.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\obj\Debug\cvekŠpraljaJakovOO.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\obj\Debug\cvekŠpraljaJakovOO.exe
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovOO\cvekŠpraljaJakovOO\obj\Debug\cvekŠpraljaJakovOO.pdb
